@@ -1,0 +1,21 @@
+require('fs'); file system module of the node
+
+npm init				[initialize npm in the working directory]
+npm install packageName  --save		
+npm install				[if you delete the folder "node modules" you can bring it back by this command]
+
+npm install gulp-cli --global		[install gulp globally]
+npm install gulp --save-dev		[install gulp locally]
+	    gulp-watch --save-dev	[install the package gulp-watch]
+
+gulp watch 				[start watching tasks]
+Ctrl+C					[stop watching tasks]
+
+
+npm install postcss-simple-vars --save-dev
+npm install gulp-postcss --save-dev
+npm install autoprefixer --save-dev
+ npm install postcss-nested --save-dev
+
+
+
